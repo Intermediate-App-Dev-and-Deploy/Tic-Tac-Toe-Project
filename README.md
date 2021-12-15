@@ -11,6 +11,14 @@ Steps in Creating a Tic Tac Toe Processing-Java Game
 - Review some analysis videos of the game no get ideas about algorithms and code
 - Design GUI & Data Structures
 - Code a Two-player version or Super Tic Tac Toe
+- Two Player requirements
+  - Symetry and Ratios of GUI are simetrical
+  - Quit Button Works
+  - Reset or Play again button works
+  - Scoreboard works and indicates whose turn it is, and if they are X or O
+  - 
+  - Token in a space that will not accept anymore tokens
+  - 
 - Prototype 1-Player Algorithms
 - Assemble the whole game
 
