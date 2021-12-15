@@ -12,14 +12,24 @@ Steps in Creating a Tic Tac Toe Processing-Java Game
 - Design GUI & Data Structures
 - Code a Two-player version or Super Tic Tac Toe
 - Two Player requirements
-  - Symetry and Ratios of GUI are simetrical
+  - Symmetry and Ratios of GUI are symmetrical
   - Quit Button Works
   - Reset or Play again button works
+  - 2-Player and 1-Player Buttons work
   - Scoreboard works and indicates whose turn it is, and if they are X or O
-  - 
   - Token in a space that will not accept anymore tokens
-  - 
+  - Alternate X & O Tokens, but these are independent of players (i.e. each player could be X or O)
+  - Recognize Three-in-a-Row
 - Prototype 1-Player Algorithms
+- 1-Player Algorithm: Computer Randomly picks where to put a token
+  - Computer could go first or second and scoreboard will indicate this
+- 1-Player Algorithm: Computer "randomly" picks the worst,
+- 1-Player Algorithm:
+- 1-Player Algorithm:
+- 1-Player Algorithm:
+- 1-Player Algorithm:
+- 1-Player Algorithm:
+- 1-Player Algorithm:
 - Assemble the whole game
 
 ---
