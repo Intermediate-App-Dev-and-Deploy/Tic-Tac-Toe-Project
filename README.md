@@ -8,6 +8,7 @@ Student Exemplar: https://github.com/QEHS-SpecialProjects/Tic-Tak-Toe-Game
 
 Super Tic Tac Toe: Tic-tak-toe but bigger
 - From Mercer's Kitchen: https://github.com/MercersKitchen/Super-Tic-Tac-Toe
+- From Intermediate CS: https://github.com/Intermediate-App-Dev-and-Deploy/Super-Tic-Tac-Toe-Exemplar
 
 ---
 
