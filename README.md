@@ -1,36 +1,54 @@
-# Tic-Tac-Toe-Project
+# Tic-Tac-Toe Project
 CS20
 
 A Simpler Case Study: the maths of Tic Tak Toe
 - Understanding choices and prediction, making a user experience of ethics (when to win)
 
+Student Exemplar: https://github.com/QEHS-SpecialProjects/Tic-Tak-Toe-Game
+
+Super Tic Tac Toe: Tic-tak-toe but bigger
+- From Mercer's Kitchen: https://github.com/MercersKitchen/Super-Tic-Tac-Toe
+
 ---
 
 Steps in Creating a Tic Tac Toe Processing-Java Game
-- Play the Game, see Google, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#play-the-game">Click Here</a>
-- Review some analysis videos of the game to get ideas about algorithms and code (grouping 32000 moves)
-- Design GUI & Data Structures
-- Code a Two-player version or Super Tic Tac Toe
-- Two Player requirements
-  - Symmetry and Ratios of GUI are symmetrical
-  - Quit Button Works
-  - Reset or Play again button works
-  - 2-Player and 1-Player Buttons work
-  - Scoreboard works and indicates whose turn it is, and if they are X or O
-  - Token in a space that will not accept anymore tokens
-  - Alternate X & O Tokens, but these are independent of players (i.e. each player could be X or O)
-  - Recognize Three-in-a-Row
-- Prototype 1-Player Algorithms
-- 1-Player Algorithm: Computer Randomly picks where to put a token
-  - Computer could go first or second and scoreboard will indicate this
-- 1-Player Algorithm: Computer "randomly" picks the worst,
-- 1-Player Algorithm:
-- 1-Player Algorithm:
-- 1-Player Algorithm:
-- 1-Player Algorithm:
-- 1-Player Algorithm:
-- 1-Player Algorithm:
+- [] Play the Game, see Google, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#play-the-game">Click Here</a>
+- [] Review some analysis videos of the game to get ideas about algorithms and code (grouping 32000 moves)
+- [] Design GUI & Data Structures on paper, See Below, <a href="">Click Here when available</a>
+- [] Code a Two-player version or Super Tic Tac Toe, See Below, <a href="">Click Here when available</a>
+- [] Develop a Two Player Version, See Below for steps, <a href="">Click Here when available</a>
+- [] Develop a One Player Version, See Below for steps, <a href="">Click Here when available</a>
+  - One Player Development ends when all algorithms allow for either computer or human to go first
+- [] Develop a Zero Player Version or Screen Saver, See Below for steps, <a href="">Click Here when available</a>
+- [] Develop a Super Tic Tak Toe 2-Player Version, See Below for steps, <a href="">Click Here when available</a>
+- [] Develop a Super Tic Tak Toe 1-Player Version, See Below for steps, <a href="">Click Here when available</a>
+
+Two Player requirements
+- Symmetry and Ratios of GUI are symmetrical
+- Quit Button Works
+- Reset or Play again button works
+- 2-Player button works (1-Player Button displays but does not work)
+- Scoreboard works and indicates whose turn it is, and if move belongs to X or O
+- Token in a space that will not accept anymore tokens
+- Alternate X & O Tokens, but these are independent of players (i.e. each player could be X or O)
+- Recognize Three-in-a-Row and will celebrate, also change the score
+
+1-Player Requirements (not in any order, developer must order these)
+- Score board shoes when game begins and X's turn
+- Computer goes second and scoreboard will indicate this
+- 1-Player Algorithm: Computer Randomly picks where to put a token first token, or any tokens
+- 1-Player Algorithm: Computer "randomly" picks the worst space (open all "double threats")
+- 1-Player Algorithm: Computer "randomly" picks the best space (block all "double threats", create double threat)
+- 1-Player Algorithm: Computer "randomly" picks a medium first move space (block least number of "double threats", create least number double threat, or some combination)
+- 1-Player Algorithm: Computer "randomly" picks a second move to create and/or block double threats
+- 1-Player Algorithm: Computer recognizes two in a row for a win
+- 1-Player Algorithm: Computer recognizes two in a row for a block (need to differentiate X's and O's)
+- Computer could go first or second and scoreboard will indicate this (note: this changes all the algorithms for computer going second)
 - Assemble the whole game
+
+Advanced COnfiguration
+- Type names in to scoreboard, not just X's and O's
+- Write and Read fileIO so game state can be saved and restarted (TAB-delineated .txt or json)
 
 ---
 
