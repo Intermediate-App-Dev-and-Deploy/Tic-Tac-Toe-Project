@@ -8,7 +8,7 @@ A Simpler Case Study: the maths of Tic Tak Toe
 
 Steps in Creating a Tic Tac Toe Processing-Java Game
 - Play the Game, see Google, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#play-the-game">Click Here</a>
-- Review some analysis videos of the game no get ideas about algorithms and code
+- Review some analysis videos of the game to get ideas about algorithms and code (grouping 32000 moves)
 - Design GUI & Data Structures
 - Code a Two-player version or Super Tic Tac Toe
 - Two Player requirements
