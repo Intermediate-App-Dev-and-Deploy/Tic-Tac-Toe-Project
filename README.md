@@ -32,7 +32,9 @@ Two Player requirements
 - Scoreboard works and indicates whose turn it is, and if move belongs to X or O
 - Token in a space that will not accept anymore tokens
 - Alternate X & O Tokens, but these are independent of players (i.e. each player could be X or O)
-- Recognize Three-in-a-Row and will celebrate, also change the score
+- Recognize Three-in-a-Row and will celebrate, also change the score (different from match score)
+- Match Score is configurable: first to 3, first to 5, first to 10, most wins in 10 minutes ... OR ...
+  - Something more creative like "most number of wins after CATS"
 
 1-Player Requirements (not in any order, developer must order these)
 - Score board shoes when game begins and X's turn
