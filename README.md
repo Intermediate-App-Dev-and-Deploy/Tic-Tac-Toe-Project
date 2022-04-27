@@ -28,6 +28,7 @@ Two Player requirements
 - Symmetry and Ratios of GUI are symmetrical
 - Quit Button Works
 - Reset or Play again button works
+- Mode Button: Easy, Medium, Difficult (and/or Impossible) {Developer chooses what each of these mean}
 - 2-Player button works (1-Player Button displays but does not work)
 - Scoreboard works and indicates whose turn it is, and if move belongs to X or O
 - Token in a space that will not accept anymore tokens
