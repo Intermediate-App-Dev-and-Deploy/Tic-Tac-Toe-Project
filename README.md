@@ -35,6 +35,11 @@ Two Player requirements
 - Recognize Three-in-a-Row and will celebrate, also change the score (different from match score)
 - Match Score is configurable: first to 3, first to 5, first to 10, most wins in 10 minutes ... OR ...
   - Something more creative like "most number of wins after CATS"
+- Pseudocode Suggestions
+  - Layout the 3-3 Matrix
+  - Buttons in artsy symmetrical way (even a logical is artsy)
+  - Scoreboard with behavioral descriptions
+  - How tokens used and data structure behind mathematics
 
 1-Player Requirements (not in any order, developer must order these)
 - Score board shoes when game begins and X's turn
@@ -49,7 +54,7 @@ Two Player requirements
 - Computer could go first or second and scoreboard will indicate this (note: this changes all the algorithms for computer going second)
 - Assemble the whole game
 
-Advanced COnfiguration
+Advanced Configuration
 - Type names in to scoreboard, not just X's and O's
 - Write and Read fileIO so game state can be saved and restarted (TAB-delineated .txt or json)
 
