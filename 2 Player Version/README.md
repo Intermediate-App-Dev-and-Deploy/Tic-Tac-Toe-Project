@@ -3,6 +3,13 @@ Basic Game and Algorithms
 
 UNDER CONSTRUCTION
 
+Example Data Structures
+- Primitive Booleans
+- Single Line IFs
+- 9 Squares represented in an array
+- X & O Tokens recognized as integers (+'ve or -'ve) computated by logical operators (>0, <0)
+- X & O Tokens recognized as odd or even numbers (computated as 1 or 0 by modulus)
+
 ---
 
 Steps in Creating a Tic Tac Toe Processing-Java Game
