@@ -14,11 +14,10 @@ Super Tic Tac Toe: Tic-tak-toe but bigger
 
 Steps in Creating a Tic Tac Toe Processing-Java Game
 - [] Play the Game, see Google, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#play-the-game">Click Here</a>
-- [] Review some analysis videos of the game to get ideas about algorithms and code (grouping 32000 moves)
-- [] Design GUI & Data Structures on paper, See Below, <a href="">Click Here when available</a>
-- [] Code a Two-player version or Super Tic Tac Toe, See Below, <a href="">Click Here when available</a>
-- [] Develop a Two Player Version, See Below for steps, <a href="">Click Here when available</a>
-- [] Develop a One Player Version, See Below for steps, <a href="">Click Here when available</a>
+   - - [] Design GUI & Data Structures on paper, See Mr. Mercer & <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#general-algorithm-from-mr-wildberger">Ideas from videos</a>
+- [] Review some analysis videos of the game to get ideas about algorithms and code (grouping 32000 moves), <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#analysis-of-tic-tac-toe-guidance-with-videos">Click Here</a>
+- [] Code a Two-player version or Super Tic Tac Toe, See Below, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/2%20Player%20Version">Click Here</a>
+- [] Develop a One Player Version, See Below for steps, <a href="">Click Here</a>
   - One Player Development ends when all algorithms allow for either computer or human to go first
 - [] Develop a Zero Player Version or Screen Saver, See Below for steps, <a href="">Click Here when available</a>
 - [] Develop a Super Tic Tak Toe 2-Player Version, See Below for steps, <a href="">Click Here when available</a>
