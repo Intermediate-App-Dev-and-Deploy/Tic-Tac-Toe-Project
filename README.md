@@ -24,7 +24,7 @@ Steps in Creating a Tic Tac Toe Processing-Java Game
 - [] Develop a Super Tic Tak Toe 2-Player Version, See Below for steps, <a href="">Click Here when available</a>
 - [] Develop a Super Tic Tak Toe 1-Player Version, See Below for steps, <a href="">Click Here when available</a>
 
-Two Player requirements, <a href="">Click Here</a>
+Two Player requirements, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/2%20Player%20Version#two-player-requirements">Click Here</a>
 
 1-Player Requirements (not in any order, developer must order these)
 - Score board shoes when game begins and X's turn

@@ -76,3 +76,17 @@ Coding: Creating Game Space and Laying out where buttons will be
 
 Coding: Create a 2-Player Version
 - CAUTION: this version needs to have 1 player available to be taken over
+
+---
+
+Note: all two player algorithms are used
+- 2 player
+- 1 player
+- Or Computer vs Computer
+
+---
+
+start with images that can change based on points
+- send parameters for image function
+
+create function for drawing x, send parameters of beginning function
