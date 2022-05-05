@@ -44,7 +44,7 @@ Advanced Configuration
   - Restart Button
   - Scoreboard and method to show whose turn it is
 
-### What will your game look like ... Time to Design
+## What will your game look like ... Time to Design
 
 Creating Game Space and Laying out where buttons will be
 - Includes hover-over, colours, menus, and any other special effects
