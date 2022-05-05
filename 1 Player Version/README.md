@@ -6,34 +6,19 @@ CAUTION: All Algorithms from 2-Player Mode are used
 here</a>
 
 Note: End-goal is 1-Player algorithms to be used by both 1-Player Mode and Computer vs. Computer Mode
+- Computer could go first or second and scoreboard will indicate this (note: this changes all the algorithms for computer going second)
 
 Summary List of 1-Player Algorithms
 
-
 ---
 
-
-Two Player requirements
-- Symmetry and Ratios of GUI are symmetrical
-- Quit Button Works
-- Reset or Play again button works
-- Mode Button: Easy, Medium, Difficult (and/or Impossible) {Developer chooses what each of these mean}
-- 2-Player button works (1-Player Button displays but does not work)
-- Scoreboard works and indicates whose turn it is, and if move belongs to X or O
-- Token in a space that will not accept anymore tokens
-- Alternate X & O Tokens, but these are independent of players (i.e. each player could be X or O)
-- Recognize Three-in-a-Row and will celebrate, also change the score (different from match score)
-- Match Score is configurable: first to 3, first to 5, first to 10, most wins in 10 minutes ... OR ...
-  - Something more creative like "most number of wins after CATS"
-- Pseudocode Suggestions
-  - Layout the 3-3 Matrix
-  - Buttons in artsy symmetrical way (even a logical is artsy)
-  - Scoreboard with behavioral descriptions
-  - How tokens used and data structure behind mathematics
-
-1-Player Requirements (not in any order, developer must order these)
-- Score board shoes when game begins and X's turn
+# 1-Player Requirements (not in any order, developer must order these)
+- 1-Player Button now works
 - Computer goes second and scoreboard will indicate this
+- Easy - Medium - Difficult - Impossible Modes Button works
+- Mode Button Picks through a hierarchy which algorithms are available
+
+Algorithms that should be solved here (suggested order)
 - 1-Player Algorithm: Computer Randomly picks where to put a token first token, or any tokens
 - 1-Player Algorithm: Computer "randomly" picks the worst space (open all "double threats")
 - 1-Player Algorithm: Computer "randomly" picks the best space (block all "double threats", create double threat)
@@ -41,8 +26,6 @@ Two Player requirements
 - 1-Player Algorithm: Computer "randomly" picks a second move to create and/or block double threats
 - 1-Player Algorithm: Computer recognizes two in a row for a win
 - 1-Player Algorithm: Computer recognizes two in a row for a block (need to differentiate X's and O's)
-- Computer could go first or second and scoreboard will indicate this (note: this changes all the algorithms for computer going second)
-- Assemble the whole game
 
 Advanced Configuration
 - Type names in to scoreboard, not just X's and O's
