@@ -1,21 +1,17 @@
 # 1 Player Mode
 More Advanced Algorithms for Human as X, Computer as O
 
-UNDER CONSTRUCTION
+CAUTION: All Algorithms from 2-Player Mode are used
+<a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/2%20Player%20Version#2-player-mode">
+here</a>
+
+Note: End-goal is 1-Player algorithms to be used by both 1-Player Mode and Computer vs. Computer Mode
+
+Summary List of 1-Player Algorithms
+
 
 ---
 
-Steps in Creating a Tic Tac Toe Processing-Java Game
-- [] Play the Game, see Google, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#play-the-game">Click Here</a>
-- [] Review some analysis videos of the game to get ideas about algorithms and code (grouping 32000 moves)
-- [] Design GUI & Data Structures on paper, See Below, <a href="">Click Here when available</a>
-- [] Code a Two-player version or Super Tic Tac Toe, See Below, <a href="">Click Here when available</a>
-- [] Develop a Two Player Version, See Below for steps, <a href="">Click Here when available</a>
-- [] Develop a One Player Version, See Below for steps, <a href="">Click Here when available</a>
-  - One Player Development ends when all algorithms allow for either computer or human to go first
-- [] Develop a Zero Player Version or Screen Saver, See Below for steps, <a href="">Click Here when available</a>
-- [] Develop a Super Tic Tak Toe 2-Player Version, See Below for steps, <a href="">Click Here when available</a>
-- [] Develop a Super Tic Tak Toe 1-Player Version, See Below for steps, <a href="">Click Here when available</a>
 
 Two Player requirements
 - Symmetry and Ratios of GUI are symmetrical
