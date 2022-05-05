@@ -136,7 +136,6 @@ Level 3
    3. <a href="https://math.stackexchange.com/questions/452031/chance-of-winning-in-tic-tac-toe">Click Here for Reading #3: Chance of Winning in Tic Tac Toe</a>
    4. <a href="https://www.youtube.com/watch?v=YUpUkQmpp0s">Student Presentation for Tik Tac Toe</a> with detailed mathematics about the probability of winning
    5. <a href="https://www.youtube.com/watch?v=YUpUkQmpp0s">Student Presentation for Tik Tac Toe</a>
-   6.
 
 ---
 
@@ -152,4 +151,4 @@ Level 3
 Super Tic Tac Toe Videos for information
 - <a href="https://www.youtube.com/watch?v=weC1pAeh2Do">Ulitmate Tik Tack Toe Video to test your algorithm on</a>
 - Instructions, video: https://www.youtube.com/watch?v=37PC0bGMiTI
-- Instructions, article: https://mathwithbaddrawings.com/ultimate-tic-tac-toe-original-post/ 
+- Instructions, article: https://mathwithbaddrawings.com/ultimate-tic-tac-toe-original-post/
