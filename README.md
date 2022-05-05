@@ -25,18 +25,7 @@ Steps in Creating a Tic Tac Toe Processing-Java Game
 
 Two Player requirements, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/2%20Player%20Version#two-player-requirements">Click Here</a>
 
-1-Player Requirements (not in any order, developer must order these)
-- Score board shoes when game begins and X's turn
-- Computer goes second and scoreboard will indicate this
-- 1-Player Algorithm: Computer Randomly picks where to put a token first token, or any tokens
-- 1-Player Algorithm: Computer "randomly" picks the worst space (open all "double threats")
-- 1-Player Algorithm: Computer "randomly" picks the best space (block all "double threats", create double threat)
-- 1-Player Algorithm: Computer "randomly" picks a medium first move space (block least number of "double threats", create least number double threat, or some combination)
-- 1-Player Algorithm: Computer "randomly" picks a second move to create and/or block double threats
-- 1-Player Algorithm: Computer recognizes two in a row for a win
-- 1-Player Algorithm: Computer recognizes two in a row for a block (need to differentiate X's and O's)
-- Computer could go first or second and scoreboard will indicate this (note: this changes all the algorithms for computer going second)
-- Assemble the whole game
+1-Player Requirements, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/1%20Player%20Version#1-player-mode">Click Here</a>
 
 Advanced Configuration
 - Type names in to scoreboard, not just X's and O's
