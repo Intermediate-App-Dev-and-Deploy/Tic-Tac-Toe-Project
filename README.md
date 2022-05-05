@@ -131,12 +131,12 @@ Level 3
   - Rule 6: If you can prevent your opponent from setting up a double threat, do so
 
 #### Generalize your algorithm with these readings
-   1. <a href="https://www.quora.com/What-is-the-probability-of-the-first-player-winning-in-Tic-Tac-Toe-as-well-as-the-second-one-winning">Click Here</a>
-   2. <a href="http://mathforum.org/kb/thread.jspa?forumID=13&threadID=1164858&messageID=3821102">Click Here</a>
-   3. <a href="https://math.stackexchange.com/questions/452031/chance-of-winning-in-tic-tac-toe">Click Here</a>
+   1. <a href="https://www.quora.com/What-is-the-probability-of-the-first-player-winning-in-Tic-Tac-Toe-as-well-as-the-second-one-winning">Click Here for Reading #1: Probability of the First Person winning compared to the Second Person</a>
+   2. <a href="http://mathforum.org/kb/thread.jspa?forumID=13&threadID=1164858&messageID=3821102">Click Here for the link that might be broken</a>
+   3. <a href="https://math.stackexchange.com/questions/452031/chance-of-winning-in-tic-tac-toe">Click Here for Reading #3: Chance of Winning in Tic Tac Toe</a>
    4. <a href="https://www.youtube.com/watch?v=YUpUkQmpp0s">Student Presentation for Tik Tac Toe</a> with detailed mathematics about the probability of winning
    5. <a href="https://www.youtube.com/watch?v=YUpUkQmpp0s">Student Presentation for Tik Tac Toe</a>
-   6. <a href="https://www.youtube.com/watch?v=weC1pAeh2Do">Ulitmate Tik Tack Toe Video to test your algorithm on</a>
+   6.
 
 ---
 
@@ -148,3 +148,8 @@ Level 3
 - Super Tic Tac Toe has game play rules that need to be followed in 2-player (this will be were algorithms are)
 
 ---
+
+Super Tic Tac Toe Videos for information
+- <a href="https://www.youtube.com/watch?v=weC1pAeh2Do">Ulitmate Tik Tack Toe Video to test your algorithm on</a>
+- Instructions, video: https://www.youtube.com/watch?v=37PC0bGMiTI
+- Instructions, article: https://mathwithbaddrawings.com/ultimate-tic-tac-toe-original-post/ 
