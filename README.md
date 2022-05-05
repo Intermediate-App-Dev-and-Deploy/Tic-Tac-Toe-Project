@@ -44,7 +44,7 @@ Advanced Configuration
   - Restart Button
   - Scoreboard and method to show whose turn it is
 
-#### What will your game look like ... Time to Design
+### What will your game look like ... Time to Design
 
 Creating Game Space and Laying out where buttons will be
 - Includes hover-over, colours, menus, and any other special effects
@@ -52,7 +52,7 @@ Creating Game Space and Laying out where buttons will be
   - "Do you want to play again? (after max score reached)"
   - File IO: if game is quit before max score, option to pause and start again
 
-#### Example To Consider: GUI Design & Data Structure Design
+### Example To Consider: GUI Design & Data Structure Design
 - Ratios and Symmetry (paper folding and generalizing 1/3 to percepts when populating variables based on display geometry)
 - Restart Button: clear specific variables, clear playing board
 - Scoreboard (X & O)
