@@ -10,6 +10,13 @@ UNDER CONSTRUCTION
 
 ---
 
+Super Tic Tac Toe Videos for information
+- <a href="https://www.youtube.com/watch?v=weC1pAeh2Do">Ulitmate Tik Tack Toe Video to test your algorithm on</a>
+- Instructions, video: https://www.youtube.com/watch?v=37PC0bGMiTI
+- Instructions, article: https://mathwithbaddrawings.com/ultimate-tic-tac-toe-original-post/
+
+---
+
 # Progressions
 
 ---
