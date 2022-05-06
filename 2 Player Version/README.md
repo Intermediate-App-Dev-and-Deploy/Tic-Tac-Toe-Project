@@ -20,6 +20,7 @@ UNDER CONSTRUCTION
   - Buttons in artsy symmetrical way (even a logical is artsy)
   - Scoreboard with behavioral descriptions
   - How tokens used and data structure behind mathematics
+- Optional: game clock and total time clock, leads to digital health options and reminders to get outside or "go to sleep"
 
 # Example Data Structures
 - Primitive Booleans

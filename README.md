@@ -27,7 +27,7 @@ Two Player requirements, <a href="https://github.com/Intermediate-App-Dev-and-De
 
 1-Player Requirements, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/1%20Player%20Version#1-player-mode">Click Here</a>
 
-Computer Vs. Computer, see Pathway above
+Computer Vs. Computer, <a href="">Click Herewhen available or see Pathway above</a>
 
 Advanced Configuration
 - Type names in to scoreboard, not just X's and O's
@@ -64,25 +64,25 @@ Creating Game Space and Laying out where buttons will be
   - Levels: must code first 2 to earn 50% here, other levels increase grade
   - Note: these levels create an
     1. Random: randomly put O-Token anywhere that is not filled
-      - Note: traditionally computer is O-Token
-      - Optional: computer goes first but correct score is still tracked
+       - Note: traditionally computer is O-Token
+       - Optional: computer goes first but correct score is still tracked
+       - Delay: humans register a computer's move better if a delay exists showing "the computer's turn", then "the actual move"
     2. Easy: multiple options
-      - Strict Random: first move is always random
-      - Loose Random: some tokens will have choice of locations but not all locations will lead to 3-in-a-row
-      - 3-in-a-row random: pick a location "randomly" planning 3 in a row
-      - first move in always in side-location
-      - first move is usually in side-location
+       - Strict Random: first move is always random
+       - Loose Random: some tokens will have choice of locations but not all locations will lead to 3-in-a-row
+       - 3-in-a-row random: pick a location "randomly" planning 3 in a row
+       - first move in always in side-location
+       - first move is usually in side-location
     3. Medium: definitions here are up to developer, options include
-      - blocking 3-in-a-row
-      - blocking 2-in-a-row (note: this is different, no consideration if 3-in-a-row is possible)
-      - first move is never in side-location (very small percentage of winning)
-      - first move is always center or corner, then other algorithms take over
+       - blocking 3-in-a-row
+       - blocking 2-in-a-row (note: this is different, no consideration if 3-in-a-row is possible)
+       - first move is never in side-location (very small percentage of winning)
+       - first move is always center or corner, then other algorithms take over
     4. Hard or Impossible: developer defines what these mean
-      - Blocking "double threat" setup
-      - Blocking "double threat" setup while setting up own double threat
+       - Blocking "double threat" setup
+       - Blocking "double threat" setup while setting up own double threat
 - Quit Button
-- Optional: game clock and total time clock
-  - leads to digital health options
+- Optional: game clock and total time clock, leads to digital health options
 
 ---
 
