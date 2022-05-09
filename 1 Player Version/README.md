@@ -5,7 +5,7 @@ CAUTION: All Algorithms from 2-Player Mode are used
 <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/2%20Player%20Version#2-player-mode">
 here</a>
 
-Note: End-goal is 1-Player algorithms to be used by both 1-Player Mode and Computer vs. Computer Mode
+End-goal is 1-Player algorithms to be used by both 1-Player Mode and Computer vs. Computer Mode
 - Computer could go first or second and scoreboard will indicate this (note: this changes all the algorithms for computer going second)
 
 Summary List of 1-Player Algorithms
@@ -33,18 +33,7 @@ Advanced Configuration
 
 ---
 
-# Play the Game
-- See Google Chrome: search Tic Tac Toe
-- Use any other app or paper and pencil
-- Notice,
-  - 1 or 2 player modes
-  - Levels for 1 Player
-  - Restart Button
-  - Scoreboard and method to show whose turn it is
-
----
-
-# Analysis of Tic Tac Toe: Guidance with Videos
+# Reminder, Analysis of Tic Tac Toe: Guidance with Videos
 
 #### Develop an algorithm with these Videos
 - Reminder: for each video, name the strategy to develop an algorithm to
