@@ -10,7 +10,8 @@ UNDER CONSTRUCTION
 - Mode Button: Easy, Medium, Difficult (and/or Impossible) {Developer chooses what each of these mean}
 - 2-Player button works (1-Player Button displays but does not work)
 - Scoreboard works and indicates whose turn it is, and if move belongs to X or O
-- Token in a space that will not accept anymore tokens
+- After starting a game, first click places an X and locks that space from more tokens
+- Second click places an O and locks that space
 - Alternate X & O Tokens, but these are independent of players (i.e. each player could be X or O)
 - Recognize Three-in-a-Row and will celebrate, also change the score (different from match score)
 - Match Score is configurable: first to 3, first to 5, first to 10, most wins in 10 minutes ... OR ...
@@ -26,8 +27,8 @@ UNDER CONSTRUCTION
 - Primitive Booleans
 - Single Line IFs
 - 9 Squares represented in an array
-- X & O Tokens recognized as integers (+'ve or -'ve) computated by logical operators (>0, <0)
-- X & O Tokens recognized as odd or even numbers (computated as 1 or 0 by modulus)
+- X & O Tokens recognized as integers (+'ve or -'ve) computed by logical operators (>0, <0)
+- X & O Tokens recognized as odd or even numbers (computed as 1 or 0 by modulus)
 
 ---
 
