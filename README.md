@@ -2,7 +2,7 @@
 CS20
 
 A Simpler Case Study: the maths of Tic Tak Toe
-- Understanding choices and prediction, making a user experience of ethics (when to win)
+- Understanding choices and prediction, making a user experience of ethics (when to win given 32000 choices)
 
 Student Exemplar: https://github.com/QEHS-SpecialProjects/Tic-Tak-Toe-Game
 
