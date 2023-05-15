@@ -109,11 +109,11 @@ Creating Game Space and Laying out where buttons will be
   - <a href="https://drive.google.com/drive/folders/1o_ch0JKFywTH2Z8Spqf49T5vMOO7Q-Y5">Click Here to see the Google Drive Video</a>
   - Strategy: Separates an Algorithm into different sections
     - 4:45 – 7:30: 3 in a row: discusses examples of how simple mistakes might be made, watch how he makes example 3 (general pattern) and example 4 (almost a general pattern)
-    - 9:30 - ?? (about 13:00): Discusses two rules: when there is 2 in a row, try to make three or try to block
+    - 9:30 - 13:50 (about 13:00): Discusses two rules: when there is 2 in a row, try to make three or try to block
       - Code this with random() until the algorithm is able to be played
-    - 14:00 - 15:30 (can stop about): Double Threats; discusses some advanced planning to set up a double threat
+    - 14:00 - 15:30 or ~17 minutes (can stop about): Double Threats; discusses some advanced planning to set up a double threat
     - 20:00 - 23:30: Discusses how to setup and prevent double threats
-    - 24:00 - 31:10 : Discusses how to setup a double threat
+    - 24:00 - 31:10 : Discusses how to setup a double threat from two pieces on the board
 
 #### Review of Videos and Introduction to Tic Tac Toe Algorithms
 - Shapes of Double Threats
