@@ -94,10 +94,17 @@ Creating Game Space and Laying out where buttons will be
 - Video: Master Strategies, <a href="https://www.youtube.com/watch?v=5n2aQ3UQu9Y">Click Here</a>
   - Strategy: “3 corners” (one general pattern to ensure a win)
   - Discusses general probabilities based on corner moves and side moves
+    - First Move, corner
+      - Second Move, side adjacent to corner: will be a loss
+      - Second Move, Center: two options
+        - Tie: must choose side for a tie
+        - Loss: choose any corner (then you choose any corner or center for the win)
 - Video: Secrets and Strategies, <a href="https://drive.google.com/drive/folders/1o_ch0JKFywTH2Z8Spqf49T5vMOO7Q-Y5">Click Here to see the Google Drive Video</a>
   - Strategy: “3 Corners”, “2-types of triangles”
   - Discusses different strategies but allows students to reflect on what is happening
   - Note: no sound on this
+    - Isosceles Triangle, center occupied
+    - Right Triangle, triangle does not need to be made first (overall shape is important)
 - Video: ElemMath 13.mp4, <a href="https://www.youtube.com/watch?v=_pJI5FJVbfQ">Click Here for YouTube Video</a>
   - <a href="https://drive.google.com/drive/folders/1o_ch0JKFywTH2Z8Spqf49T5vMOO7Q-Y5">Click Here to see the Google Drive Video</a>
   - Strategy: Separates an Algorithm into different sections
