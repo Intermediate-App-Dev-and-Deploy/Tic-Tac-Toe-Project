@@ -17,7 +17,7 @@ Steps in Creating a Tic Tac Toe Processing-Java Game
 - [] Play the Game, see Google, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#play-the-game">Click Here</a>
    - - [] Design GUI & Data Structures on paper, See Mr. Mercer & <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#general-algorithm-from-mr-wildberger">Ideas from videos</a>
 - [] Review some analysis videos of the game to get ideas about algorithms and code (grouping 32000 moves), <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#analysis-of-tic-tac-toe-guidance-with-videos">Click Here</a>
-- [] Code a Two-player version or Super Tic Tac Toe, See Below, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/2%20Player%20Version">Click Here</a>
+- [] Code a Two-player version or Super Tic Tac Toe using the App Engine work, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/2%20Player%20Version">Click Here</a>
 - [] Develop a One Player Version, See Below for steps, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/1%20Player%20Version">Click Here</a>
   - One Player Development ends when all algorithms allow for either computer or human to go first
 - [] Develop a Zero Player Version or Screen Saver, See Below for steps, <a href="">Click Here when available</a>
@@ -28,11 +28,21 @@ Two Player requirements, <a href="https://github.com/Intermediate-App-Dev-and-De
 
 1-Player Requirements, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project/tree/main/1%20Player%20Version#1-player-mode">Click Here</a>
 
-Computer Vs. Computer, <a href="">Click Herewhen available or see Pathway above</a>
+Computer Vs. Computer, <a href="">Click Here when available or see Pathway above</a>
+- Note: "moves" will need to be slowed down a lot
 
 Advanced Configuration
 - Type names in to scoreboard, not just X's and O's
 - Write and Read fileIO so game state can be saved and restarted (TAB-delineated .txt or json)
+
+### Optional: use an API
+- Develop a Tic Tac Toe Game from your App Engine
+- Find an API for this game
+- Read the Documentation and add the API into your game
+- For Example:
+  - send what the Tic Tac Toe board looks like to the server
+  - receive the next move suggestion from the server
+  - change the CANVAS and repeat
 
 ---
 
