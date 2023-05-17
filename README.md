@@ -13,6 +13,17 @@ Super Tic Tac Toe: Tic-tak-toe but bigger
 
 ---
 
+# Note: Tic Tac Toe has two new pieces
+
+1. Using the App Engine, write the least amount of code run the GUI
+   - Use arrays & APPEND
+   - Use FOR or WHILE to iterate through
+   - Use an API to populate variables
+
+2. Create an algorithm to make decisions about how to code a computer to play the game
+
+---
+
 Steps in Creating a Tic Tac Toe Processing-Java Game
 - [] Play the Game, see Google, <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#play-the-game">Click Here</a>
    - - [] Design GUI & Data Structures on paper, See Mr. Mercer & <a href="https://github.com/Intermediate-App-Dev-and-Deploy/Tic-Tac-Toe-Project#general-algorithm-from-mr-wildberger">Ideas from videos</a>
