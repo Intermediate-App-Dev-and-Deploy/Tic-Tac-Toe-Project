@@ -178,9 +178,9 @@ Algorithms to increase board to 4x4, 5x5, etc.
 
 Progressions to take a step back and look at what computational thinking looks like
 - Create board
-- computationally define the spaces on the board so you and the computer know
+- Computationally define the spaces on the board so you and the computer know (i.e 0-8 or 1-9)
 - Create and list the buttons
-- Create scoreboard and what a celebration looks like
+- Create scoreboard and what a celebration looks like (printing to CONSOLE first, then draw() )
 - Create export button to save the game state, score, and other variables
 - Create procedure to draw X and O, void draw
 - Create booleans activated in mousePressed to draw X & O
@@ -196,5 +196,18 @@ Progressions to take a step back and look at what computational thinking looks l
 - SEE ABOVE ALGORITHMS for more progressions
 
 Note: if using arrays, use APPEND()
+
+---
+
+KeyPressed() Computational Progression
+
+- Draw a board
+- In center or first corner (not both)
+  - Procedure to draw an X based in WASD keys ( 2d shapes, text, or image )
+  - Procedure to draw an O based on numeral keys ( same as above but for 2D image use ellipseMode(CORNER) )
+  - When X or O is draw, the other key doesn't work anymore for that space
+- Then make all WASD keys work for board filled with X's only
+- Then make all numeral keys work for board filled with O's only
+- Then, when 3-in-a-row recognized, spaces not filled with either X or O cannot be drawn to until after RESET Button clicked (or keyBoard reset button clicked)
 
 ---
