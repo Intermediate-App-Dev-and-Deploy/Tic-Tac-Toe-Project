@@ -173,3 +173,28 @@ Level 3
 Algorithms to increase board to 4x4, 5x5, etc.
 - odd has center piece
 - Daniel Siftman does gaming videos
+
+---
+
+Progressions to take a step back and look at what computational thinking looks like
+- Create board
+- computationally define the spaces on the board so you and the computer know
+- Create and list the buttons
+- Create scoreboard and what a celebration looks like
+- Create export button to save the game state, score, and other variables
+- Create procedure to draw X and O, void draw
+- Create booleans activated in mousePressed to draw X & O
+- Extra Grades for using arrays, reading-writing using FOR-Each
+- Create 2-person game
+  - does not write into space already clicked
+  - WASD grid and number grid works
+  - mousePressed based on this
+- 1-person: randomly choose number, output to console
+- 1-person: number is used instead of number pad, saved into primitive data or array
+- 1-person: game ends when all squares are chosen
+- 1-person: game ends when 3-in-a-row recognized
+- SEE ABOVE ALGORITHMS for more progressions
+
+Note: if using arrays, use APPEND()
+
+---
