@@ -211,3 +211,14 @@ KeyPressed() Computational Progression
 - Then, when 3-in-a-row recognized, spaces not filled with either X or O cannot be drawn to until after RESET Button clicked (or keyBoard reset button clicked)
 
 ---
+
+An Example Algorithm to be switched into IFs
+- alternate turns on a keyboard
+- stop when the game board is full, reset variables and start on a new board
+- after each move, check the game state during 2-player
+- check 3 in a row
+- stop when 3 in a row, run celebration scripts, reset variables, and start a new board
+
+
+
+---
