@@ -219,6 +219,8 @@ An Example Algorithm to be switched into IFs
 - after each move, check the game state during 2-player
 - check 3 in a row
 - stop when 3 in a row, run celebration scripts, reset variables, and start a new board
+- keep score
+- person who goes first is person who is losing more, or if tied, lost last game
 
 1-Player, Basic
 - Previous algorithms
@@ -226,6 +228,14 @@ An Example Algorithm to be switched into IFs
 
 1-Player, Easy
 - Recognize 2 in a row, block
+
+1-Player, Hard Mode (person first, corner only OR AI first from corner only)
+- makes calculated errors to keep the score close
+
+1-Player, Impossible (person first, corner only OR AI first from corner only)
+- Never makes a mistake
+
+Advanced Algorithm: will work from any position
 
 How do you make the AI loose each time with basic block and 3-in-a-row
 
