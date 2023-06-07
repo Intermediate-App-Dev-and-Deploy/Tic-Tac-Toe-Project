@@ -214,11 +214,21 @@ KeyPressed() Computational Progression
 
 An Example Algorithm to be switched into IFs
 - alternate turns on a keyboard
+- cannot choose a square already chosen
 - stop when the game board is full, reset variables and start on a new board
 - after each move, check the game state during 2-player
 - check 3 in a row
 - stop when 3 in a row, run celebration scripts, reset variables, and start a new board
 
+1-Player, Basic
+- Previous algorithms
+- Random play
 
+1-Player, Easy
+- Recognize 2 in a row, block
+
+How do you make the AI loose each time with basic block and 3-in-a-row
+
+How do you make the AI make calculated wins or losses beyond random
 
 ---
