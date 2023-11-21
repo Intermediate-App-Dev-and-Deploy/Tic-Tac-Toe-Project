@@ -7,6 +7,8 @@ UNDER CONSTRUCTION
 - Symmetry and Ratios of GUI are symmetrical
   - must identify square in rectangle display
   - where does score board and buttons go
+  - develop the larger rectangles for the main pieces of the board
+  - illustrate with paper folding
 - Quit Button Works
 - Reset or Play again button works
 - Mode Button: Easy, Medium, Difficult (and/or Impossible) {Developer chooses what each of these mean}
@@ -40,6 +42,12 @@ UNDER CONSTRUCTION
 # Algorithms to work on
 - First Algorithm: randomly placing a token anywhere
 - Second Algorithm: recognize all positions of 3 in a row
+
+# Research for Next Steps
+- What are some neutral images (score is within 3 of each other)
+- What are other images when someone is clearly gifted at Tic Tak Toe
+  - Leads to Algorithm where "how much someone is winning" is illustrated by the score
+- 
 
 ---
 
