@@ -5,11 +5,15 @@ UNDER CONSTRUCTION
 
 # Two Player requirements
 - Symmetry and Ratios of GUI are symmetrical
+  - must identify square in rectangle display
+  - where does score board and buttons go
 - Quit Button Works
 - Reset or Play again button works
 - Mode Button: Easy, Medium, Difficult (and/or Impossible) {Developer chooses what each of these mean}
 - 2-Player button works (1-Player Button displays but does not work)
 - Scoreboard works and indicates whose turn it is, and if move belongs to X or O
+  - advanced: personalize the scoreboard
+  - advanced: personalize who goes first
 - After starting a game, first click places an X and locks that space from more tokens
 - Second click places an O and locks that space
 - Alternate X & O Tokens, but these are independent of players (i.e. each player could be X or O)
@@ -21,7 +25,10 @@ UNDER CONSTRUCTION
   - Buttons in artsy symmetrical way (even a logical is artsy)
   - Scoreboard with behavioral descriptions
   - How tokens used and data structure behind mathematics
-- Optional: game clock and total time clock, leads to digital health options and reminders to get outside or "go to sleep"
+- Optional: game clock and total time clock, leads to digital health options and reminders to get outside or "go to sleep" (i.e. what is the weather outside stating what place you are in)
+- Optional: save the scoreboard, when the game starts again, begin at the same score
+- Optional: export personalization 
+- Optional: screen-saver mode that randomly places a token anywhere on the board 9 times, then restarts
 
 # Example Data Structures
 - Primitive Booleans
@@ -30,13 +37,17 @@ UNDER CONSTRUCTION
 - X & O Tokens recognized as integers (+'ve or -'ve) computed by logical operators (>0, <0)
 - X & O Tokens recognized as odd or even numbers (computed as 1 or 0 by modulus)
 
+# Algorithms to work on
+- First Algorithm: randomly placing a token anywhere
+- Second Algorithm: recognize all positions of 3 in a row
+
 ---
 
 # To Include
 
 Review of Videos and Introduction to Tic Tac Toe Algorithms
-- First Algorithm: randomly placing a token anywhere
-- Relative Positions of 3-in-a-row, 2-in-a-row
+
+Relative Positions of 3-in-a-row, 2-in-a-row
 
 GUI Design & Data Structure Design
 - Ratios and Symmetry (paper folding and generalizing 1/3 to percepts when populating variables based on display geometry)
