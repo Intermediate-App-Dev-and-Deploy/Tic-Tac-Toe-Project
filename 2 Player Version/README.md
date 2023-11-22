@@ -1,13 +1,10 @@
 # 2 Player Mode
 Basic Game and Algorithms
 
-UNDER CONSTRUCTION
+UNDER CONSTRUCTION  
 
 # Two Player requirements
-- Symmetry and Ratios of GUI are symmetrical
-  - must identify square in rectangle display
-  - where does score board and buttons go
-  - develop the larger rectangles for the main pieces of the board
+- Symmetry and Ratios of GUI are symmetrical ( teaching version based on Google's TIc Tac Toe)
   - illustrate with paper folding
 - Quit Button Works
 - Reset or Play again button works
