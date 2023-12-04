@@ -11,8 +11,8 @@ void splashScreen() {
    background(255); //Testing only, not night mode friendly, full BLUE
    divisions(); //Testing Only
    splashScreenText();
-   keyPressedX();
-   keyPressedO();
+   keyPressingXO(); //See XO KeyPressing
+   threeIn_Row(); //See Game Over
    //
 } //End Splash Screen
 //
