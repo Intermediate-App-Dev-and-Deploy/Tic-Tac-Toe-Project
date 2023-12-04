@@ -11,6 +11,8 @@ void splashScreen() {
    background(255); //Testing only, not night mode friendly, full BLUE
    divisions(); //Testing Only
    splashScreenText();
+   keyPressedX();
+   keyPressedO();
    //
 } //End Splash Screen
 //
