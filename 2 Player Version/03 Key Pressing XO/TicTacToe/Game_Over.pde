@@ -6,11 +6,11 @@ Boolean addCounter1=true, addCounter2=true, addCounter3=true, addCounter4=true;
 Boolean addCounter5=true, addCounter6=true, addCounter7=true, addCounter8=true, addCounter9=true;
 //
 void gameOver() {
-  println("Game Over");
+  println("Game Over"); //Expand this to WIN or CATS
 } //End gameOver
 //
 void boardFilled() {
-  if ( counter>=9 ) gameOver();
+  if ( counter>=9 ) gameOver(); //Expand this to WIN or CATS
 } //End boardFilled
 //
 void threeIn_Row() {

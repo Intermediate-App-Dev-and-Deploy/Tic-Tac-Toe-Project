@@ -1,5 +1,6 @@
 /* Writing X&O using KeyBoard
  - This repeats code. How can it be made simpler (Arrays, Procedures, and Loops)?
+ - How can the repeating code be turned off when not needed? Hint: IF
  */
 //
 void keyPressingXO() {
