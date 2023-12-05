@@ -1,4 +1,6 @@
 /* Does this doe run easier with Arrays, Procedures, and Loops?
+ - Expand Game Over into WINs and CATs
+ - Expand WINs into X-Wins and O-Wins
  */
 //
 int counter=0;

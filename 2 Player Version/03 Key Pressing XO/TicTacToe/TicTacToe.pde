@@ -1,4 +1,4 @@
-/* To Do List
+/* To Do List: See other Subprograms for Expanded List
  - Display Algorithm to give feedback for Geometry
  - DIVs: symetrical, based on referent measures for height and width (very similar)
  - Note: DIVs Variables create the buttons and spaces for images & text
