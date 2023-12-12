@@ -3,11 +3,19 @@
  - See Game Over: xWinsInt, oWinsInt
  */
 //
+void scoreBoardSetup() {
+  //
+  //Scoreboard Numbers
+  textDraw(height, purpleInk, CENTER, CENTER, generalFont, xWinsString, 0.6, xSideIntegerX, xSideIntegerY, xSideIntegerWidth, xSideIntegerHeight);
+  textDraw(height, purpleInk, CENTER, CENTER, generalFont, oWinsString, 0.6, oSideIntegerX, oSideIntegerY, oSideIntegerWidth, oSideIntegerHeight);
+  //
+} //End scoreBoardDraw
+//
 void scoreBoardDraw() {
   //
-  xWinsString = String.valueOf ( xWinsInt );
-  oWinsString = Integer.toString ( oWinsInt );
-  println("X", xWinsString, xWinsInt);
+  xWinsString = String.valueOf ( xWinsInt ); //Method one: int to string
+  oWinsString = Integer.toString ( oWinsInt ); //Method two: int to string
+  println("X", xWinsString, xWinsInt, counter, someoneWinsReset);
   println("O", oWinsString, oWinsInt);
   //Scoreboard Names
   textDraw(height, purpleInk, CENTER, CENTER, generalFont, x, 0.3, xSideNameX, xSideNameY, xSideNameWidth, xSideNameHeight);
@@ -29,7 +37,6 @@ void scoreBoardDraw() {
     textDraw(height, purpleInk, CENTER, CENTER, generalFont, oWinsString, 0.2, oSideIntegerX, oSideIntegerY, oSideIntegerWidth, oSideIntegerHeight);
   }
   //
-  println("Here", oSideNameX, oSideIntegerX);
 } //End scoreBoardDraw
 //
 //End Subprogram Score Board
